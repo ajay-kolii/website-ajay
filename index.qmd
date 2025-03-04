@@ -1,0 +1,27 @@
+---
+title: "Kiara Koli"
+subtitle: "Kindest Baby in the World."
+image: images/baby.jpg
+format: html
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 75%
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/ajay-kolii
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+    - icon: facebook
+      text: Facebook
+      href: https://x.com/a_koli1986
+---
+
+Hello World!
+
+My name is Kiara. I'm one year old.
+
+I like to call pigeons and dogs. Though I cannot speak now but I smile a lot and call people.
+
