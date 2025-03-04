@@ -6,6 +6,13 @@ project:
     
 website:
   title: "Kiara Koli"
+  site-url: "https://kiara-koli.netlify.app/"
+  description: "Hi my friends. Let's connect."
+  twitter-card: 
+    creator: "@a_koli1986"
+    site: "@a_koli1986"
+    card-style: summary_large_image
+    ##image: social-default.png
   navbar:
     left:
       - text: "Home"
