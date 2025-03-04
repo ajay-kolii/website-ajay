@@ -12,7 +12,7 @@ website:
     creator: "@a_koli1986"
     site: "@a_koli1986"
     card-style: summary_large_image
-    image: social.png
+    image: social-default.png
   navbar:
     left:
       - text: "Home"
